@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 62.5%;
+  line-height: 1.8rem;
+  font-family: "Recursive", sans-serif;
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+h2 {
+  font-size: 2rem;
+}
+p {
+  font-size: 1.6rem;
+}
+
+body {
+  font-family: "Recursive", sans-serif;
+  background: salmon;
+}
