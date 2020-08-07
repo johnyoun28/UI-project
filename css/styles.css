@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 62.5%;
+  line-height: 1.8rem;
+  font-family: 'Chelsea Market', cursive;
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+h2 {
+  font-size: 2rem;
+}
+p,
+a {
+  font-size: 1.6rem;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2.5rem;
+
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+body {
+  font-family: "Recursive", sans-serif;
+  background: salmon;
+}
+
+img {
+    width: 200px;
+    height auto;
+}
+
+nav {
+    display: flex;
+    margin: 20px 0;
+}
+
+.content {
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.food-content {
+    width: 70%;
+    padding: 20px;
+
+}
